@@ -1,7 +1,7 @@
 /*
-Name:
-Reg No:
-Description:
+Name: ARIRI BONIFACE
+Reg No: PA106/G/28780/25
+Description: guessing game sysstem
 */
 #include <stdio.h>
 #include <time.h>
@@ -27,3 +27,4 @@ int main() {
 	
 	    return 0;
 	}
+
