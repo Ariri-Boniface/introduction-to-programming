@@ -1,7 +1,7 @@
 /*
-Name:
-Reg No:
-Description:
+Name: ARIRI BONIFACE
+Reg No: PA106/G/28780/25
+Description: loop for descending numbers 
 */
 #include <stdio.h>
 
@@ -13,3 +13,4 @@ int main() {
 
     return 0;
 }
+
